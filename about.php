@@ -3,6 +3,10 @@
 echo "working on about page";
 ?>
 
+
+
+new page
+
     <section class="about_page">
     <div class="container">
         <div class="row">
