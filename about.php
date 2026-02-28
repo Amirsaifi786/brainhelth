@@ -1,4 +1,7 @@
-<?php include('header.php'); ?>
+<?php include('header.php'); 
+
+echo "working on about page";
+?>
 
     <section class="about_page">
     <div class="container">
